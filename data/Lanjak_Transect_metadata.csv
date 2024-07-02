@@ -1,0 +1,40 @@
+old_name,new_name,Camera_ID,SD_ID,Date_deployed,Elevation,Lat,Long,Fruit?,Tree_gap?,Tree_1,Tree_2,Tree_3,format,notes
+NA,T00,SCB155,T00,1/13/2020,387,1.4175,112.00432,Y,Y,large,med,med,"decimal degrees, WGS 84",
+T00,T35,SCB155,T00,1/13/2020,387,1.4175,112.00432,Y,Y,large,med,med,"decimal degrees, WGS 84",
+T01,T01,SCB148,T01,1/13/2020,474,1.41847,112.00234,Y,N,med,med,med,"decimal degrees, WGS 84",
+T02,T02,SCB01,T02,1/12/2020,421,1.42898,112.00401,N,N,large,small,small,"decimal degrees, WGS 84",
+T03,T03,SCB47,T03,1/12/2020,394,1.42988,112.00288,N,Y,med,large,med,"decimal degrees, WGS 84",
+T04,T04,SCB29,T04,1/12/2020,476,1.43555,111.99843,N,N,large,med,large,"decimal degrees, WGS 84",
+T05,T05,SCB179,T05,1/12/2020,503,1.43597,111.99747,N,N,small,small,small,"decimal degrees, WGS 84",
+T06,T06,SCB221,T06,1/12/2020,563,1.43607,111.99618,N,N,large,large,med,"decimal degrees, WGS 84",
+T07,T07,SCB200,T07,1/11/2020,696,1.44025,111.99468,N,N,large,med,med,"decimal degrees, WGS 84",
+T08,T08,SCB220,T08,1/11/2020,607,1.43702,111.99559,N,N,large,med,med,"decimal degrees, WGS 84","On the camera tree, animal mud markings on the tree bark"
+T09,T09,500,T09,1/11/2020,669,1.43931,111.99513,N,N,med,med,med,"decimal degrees, WGS 84",Distance from main trail less than 10m
+T10,T10,WLS01,T10,1/11/2020,647,1.43833,111.99567,N,N,large,large,med,"decimal degrees, WGS 84",One of the tree about 8m from camera is half dead
+T11,T11,WLS-03,T11,1/11/2020,802,1.44708,111.99191,N,N,large,large,large,"decimal degrees, WGS 84",
+T12,T12,SCB218,T12,1/9/2020,703,1.44135,111.99335,N,N,large,med,med,"decimal degrees, WGS 84",
+T13,T13,SCB60,T13,1/9/2020,773,1.44238,111.9926,N,N,med,med,med,"decimal degrees, WGS 84",
+T14,T14,SCB84,T14,1/9/2020,757,1.44141,111.99176,N,N,med,med,med,"decimal degrees, WGS 84",
+T15,T15,SCB40,T15,1/9/2020,714,1.44038,111.99193,N,N,large,med,med,"decimal degrees, WGS 84",
+T16,T16,SCB09,T16,1/11/2020,772,1.44898,111.99133,N,N,large,large,med,"decimal degrees, WGS 84",
+T17,T17,SCB80,T17,1/11/2020,792,1.45075,111.99104,N,N,large,large,med,"decimal degrees, WGS 84",
+T18,T18,SCB219,T18,1/11/2020,896,1.45414,111.98647,N,N,med,med,med,"decimal degrees, WGS 84",
+T19,T19,SCB213,T19,1/10/2020,960,1.45674,111.98093,N,Y,med,med,med,"decimal degrees, WGS 84",
+T20,T20,WLS04,T20,1/10/2020,963,1.45832,111.98022,N,N,large,med,med,"decimal degrees, WGS 84",
+T21,T21,SCB178,T21,1/10/2020,988,1.45978,111.97992,N,N,small,med,med,"decimal degrees, WGS 84",
+T22,T22,SCB118,T22,1/10/2020,982,1.45534,111.98232,N,N,med,med,med,"decimal degrees, WGS 84",Durio sp old fruit skin on the ground
+T23,T23,WLS-07,T23,1/10/2020,950,1.45762,111.98067,N,N,large,large,large,"decimal degrees, WGS 84",
+T24,T24,WLS-13,T24,1/10/2020,1095,1.46192,111.97936,N,N,large,med,med,"decimal degrees, WGS 84",
+T25,T25,SCB37,T25,1/10/2020,1131,1.4638,111.97845,N,N,large,med,med,"decimal degrees, WGS 84",
+T26,T26,SCB173,T26,1/10/2020,1140,1.46474,111.97861,N,N,,,,"decimal degrees, WGS 84",missing tree data
+T27,T27,SCB79,T27,1/10/2020,1135,1.46609,111.97311,N,N,small,small,med,"decimal degrees, WGS 84",
+T28,T28,SCB111,T28,1/10/2020,1149,1.46608,111.97694,N,N,small,small,med,"decimal degrees, WGS 84",Sun bear marks on the ground
+T29,T29,SCB213,T29,1/10/2020,1132,1.46598,111.974,N,N,small,small,med,"decimal degrees, WGS 84",
+T30,T30,SCB122,T30,1/10/2020,1150,1.46603,111.97503,N,N,small,small,small,"decimal degrees, WGS 84",
+T31,T31,SCB69,T31,1/10/2020,1120,1.46627,111.97249,N,N,large,med,med,"decimal degrees, WGS 84",
+T32,T32,SCB71,T32,1/10/2020,1133,1.46582,111.97278,N,N,med,med,med,"decimal degrees, WGS 84",
+T33,T33,SCB21,T33,1/10/2020,1248,1.46668,111.96959,N,N,,,,"decimal degrees, WGS 84",missing tree data
+T34,T34,SCB34,T34,1/10/2020,1283,1.46661,111.96819,N,N,med,med,med,"decimal degrees, WGS 84",
+24,T36,,24,,435,1.41835,112.00339,,,,,,"decimal degrees, WGS 84",
+25,T37,,25,,513,1.42268,112.00533,,,,,,"decimal degrees, WGS 84",
+26,T38,,26,,491,1.42851,112.00652,,,,,,"decimal degrees, WGS 84",
